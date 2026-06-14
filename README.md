@@ -102,6 +102,6 @@ I am a software developer with a strong focus on Data Science, Artificial Intell
 ---
 
 <div align="center">
-  <p><i>"Engineering solutions through data, code, and continuous learning."</i></p>
+  <p><i>"Engineering solutions through data, code and continuous learning."</i></p>
   <img src="https://komarev.com/ghpvc/?username=cinexg&label=Profile%20Views&color=3B82F6&style=flat" alt="Profile Views">
 </div>
