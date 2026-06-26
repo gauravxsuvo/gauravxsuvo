@@ -5,7 +5,7 @@
 - In my free time, I enjoy hardware tinkering (like building custom Arduino setups and water-cooled stations), playing VALORANT and GTA V, and studying Japanese.
 
 ### Contact Me
-- [LinkedIn](https://linkedin.com/gauravxsuvo)
+- [LinkedIn](https://linkedin.com/in/gauravxsuvo)
 - [GitHub](https://github.com/gauravxsuvo)
 - [Under Developerment Portfolio](gauravxsuvo)
 
