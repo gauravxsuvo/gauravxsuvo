@@ -19,6 +19,4 @@
 </table>
 
 ### Contact Me
-- [LinkedIn](https://linkedin.com/in/gauravxsuvo)
-- [GitHub](https://github.com/gauravxsuvo)
-- [Portfolio](https://gauravxsuvo.vercel.app)
+[LinkedIn](https://linkedin.com/in/gauravxsuvo) | [GitHub](https://github.com/gauravxsuvo) | [Portfolio](https://gauravxsuvo.vercel.app) | [X](https://x.com/cinexgaurav) 
