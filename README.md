@@ -1,4 +1,4 @@
-# gauravxsuvo
+# @gauravxsuvo
 
 ### Hello there :wave:
 - Hi, I'm Gaurav! I'm an undergraduate student at IIT Guwahati.
