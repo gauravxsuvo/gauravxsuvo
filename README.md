@@ -12,7 +12,7 @@
 <td valign="top" width="50%">
 
 ### Articles
-- [I built a neural network that enforces Darcy's law to find unreported groundwater pumping](https://www.linkedin.com/pulse/training-loss-said-fine-holdout-wells-394-gaurav-raj-singh-pxzqc/)
+- [I built a neural network that enforces Darcy's law to find unreported groundwater pumping.](https://www.linkedin.com/pulse/training-loss-said-fine-holdout-wells-394-gaurav-raj-singh-pxzqc/)
 
 </td>
 </tr>
