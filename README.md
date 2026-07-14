@@ -19,4 +19,6 @@
 </table>
 
 ### Contact Me
-[LinkedIn](https://linkedin.com/in/gauravxsuvo) | [GitHub](https://github.com/gauravxsuvo) | [Portfolio](https://gauravxsuvo.vercel.app) | [X](https://x.com/cinexgaurav) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gauravxsuvo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://gauravxsuvo.vercel.app)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/cinexgaurav)
