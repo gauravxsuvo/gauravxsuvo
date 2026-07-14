@@ -11,14 +11,14 @@
 </td>
 <td valign="top" width="50%">
 
-### Contact Me
-- [LinkedIn](https://linkedin.com/in/gauravxsuvo)
-- [GitHub](https://github.com/gauravxsuvo)
-- [Portfolio](https://gauravxsuvo.vercel.app)
-
 ### Articles
 <!-- Add your articles below, one markdown link per line -->
 
 </td>
 </tr>
 </table>
+
+### Contact Me
+- [LinkedIn](https://linkedin.com/in/gauravxsuvo)
+- [GitHub](https://github.com/gauravxsuvo)
+- [Portfolio](https://gauravxsuvo.vercel.app)
