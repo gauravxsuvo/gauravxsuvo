@@ -1,7 +1,7 @@
 # @gauravxsuvo
 
 ### Hello there :wave:
-- Hi, I'm Gaurav! I'm an undergraduate student at IIT Guwahati.
+- I'm Gaurav! I'm an undergraduate student at IIT Guwahati.
 - I build machine learning systems and the software around them.
 
 <table>
