@@ -12,6 +12,7 @@
 <td valign="top" width="50%">
 
 ### Articles
+- [Your palette looks great. Can people actually read it?](https://www.linkedin.com/pulse/your-palette-looks-great-can-people-actually-read-gaurav-raj-singh-bbl2c/)
 - [From cinexg-eda to statlens.](https://www.linkedin.com/pulse/from-cinexg-eda-statlens-gaurav-raj-singh-w8ccc/)
 - [Why I Started Looking at Colors as Vectors Instead of Just Colors.](https://www.linkedin.com/pulse/why-i-started-looking-colors-vectors-instead-just-gaurav-raj-singh-johfc/)
 - [I built a neural network that enforces Darcy's law to find unreported groundwater pumping.](https://www.linkedin.com/pulse/training-loss-said-fine-holdout-wells-394-gaurav-raj-singh-pxzqc/)
