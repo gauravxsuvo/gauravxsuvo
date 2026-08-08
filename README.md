@@ -12,6 +12,7 @@
 <td valign="top" width="50%">
 
 ### Articles
+- [We rebuilt the front door to hueclid.](https://www.linkedin.com/pulse/we-rebuilt-front-door-hueclid-gaurav-raj-singh-0ncvc/)
 - [Your palette looks great. Can people actually read it?](https://www.linkedin.com/pulse/your-palette-looks-great-can-people-actually-read-gaurav-raj-singh-bbl2c/)
 - [From cinexg-eda to statlens.](https://www.linkedin.com/pulse/from-cinexg-eda-statlens-gaurav-raj-singh-w8ccc/)
 - [Why I Started Looking at Colors as Vectors Instead of Just Colors.](https://www.linkedin.com/pulse/why-i-started-looking-colors-vectors-instead-just-gaurav-raj-singh-johfc/)
