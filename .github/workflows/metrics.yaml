@@ -73,6 +73,7 @@ jobs:
             }
             .largeable.largeable-inline-flex {
               width: 452px !important;
+              display: flex !important;
             }
             footer,
             .activity .details,
