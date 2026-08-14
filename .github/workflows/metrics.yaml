@@ -61,11 +61,10 @@ jobs:
               grid-template-columns: 1fr 1fr;
               column-gap: 24px;
             }
-            .items-wrapper > * {
+            .items-wrapper > section:not(.largeable-inline-flex),
+            .items-wrapper > div:not(.largeable-inline-flex),
+            .items-wrapper > footer {
               grid-column: 1 / -1;
-            }
-            .items-wrapper > .largeable.largeable-inline-flex {
-              grid-column: auto;
             }
             footer,
             .activity .details,
