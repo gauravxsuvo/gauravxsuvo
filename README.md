@@ -2,9 +2,9 @@
   <img src="assets/header.svg" width="100%" alt="Gaurav Raj Singh, undergraduate at IIT Guwahati building machine learning systems and applied research tooling" />
 
   <p>
-    <a href="https://linkedin.com/in/gauravxsuvo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://mysuvo.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="https://x.com/suvoisreal"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://linkedin.com/in/gauravxsuvo"><img src="assets/social-linkedin.svg" alt="LinkedIn: gauravxsuvo" height="34" /></a>
+    <a href="https://mysuvo.com"><img src="assets/social-portfolio.svg" alt="Portfolio: mysuvo.com" height="34" /></a>
+    <a href="https://x.com/suvoisreal"><img src="assets/social-x.svg" alt="X: @suvoisreal" height="34" /></a>
   </p>
 </div>
 
@@ -12,6 +12,8 @@ Hi, I'm Gaurav. I'm an undergraduate at IIT Guwahati, and I build machine learni
 
 <div align="center">
   <img src="github-metrics.svg" width="100%" alt="Gaurav Raj Singh's GitHub metrics: activity, community stats, and repository stats" />
+  <br />
+  <sub><!--metrics-caption-->Last updated 14 Aug 2026, 15:10:26 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0<!--/metrics-caption--></sub>
 </div>
 
 ## Proof of work
@@ -31,6 +33,10 @@ Hi, I'm Gaurav. I'm an undergraduate at IIT Guwahati, and I build machine learni
 
 ## Articles
 
-| Platform | Article | Topic |
-| --- | --- | --- |
-| LinkedIn | [I built a neural network that enforces Darcy's law to find unreported groundwater pumping.](https://www.linkedin.com/pulse/training-loss-said-fine-holdout-wells-394-gaurav-raj-singh-pxzqc/) | Physics-informed ML for groundwater monitoring |
+| Article | Topic |
+| --- | --- |
+| [We rebuilt the front door to hueclid.](https://www.linkedin.com/pulse/we-rebuilt-front-door-hueclid-gaurav-raj-singh-0ncvc/) | Rebuilding the Hueclid landing page |
+| [Your palette looks great. Can people actually read it?](https://www.linkedin.com/pulse/your-palette-looks-great-can-people-actually-read-gaurav-raj-singh-bbl2c/) | Contrast and readability in generated palettes |
+| [From cinexg-eda to statlens.](https://www.linkedin.com/pulse/from-cinexg-eda-statlens-gaurav-raj-singh-w8ccc/) | Turning an EDA tool into Statlens |
+| [Why I Started Looking at Colors as Vectors Instead of Just Colors.](https://www.linkedin.com/pulse/why-i-started-looking-colors-vectors-instead-just-gaurav-raj-singh-johfc/) | Perceptual color spaces and Oklab |
+| [I built a neural network that enforces Darcy's law to find unreported groundwater pumping.](https://www.linkedin.com/pulse/training-loss-said-fine-holdout-wells-394-gaurav-raj-singh-pxzqc/) | Physics-informed ML for groundwater monitoring |

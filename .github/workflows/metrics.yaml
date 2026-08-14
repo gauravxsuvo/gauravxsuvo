@@ -75,7 +75,9 @@ jobs:
               width: 452px !important;
               display: flex !important;
             }
-            footer,
+            footer {
+              display: none !important;
+            }
             .activity .details,
             .activity .timestamp,
             .repository .description,
@@ -92,3 +94,16 @@ jobs:
           plugin_followup_sections: repositories
           repositories: 1000
           repositories_forks: yes
+
+      - name: Sync metrics caption into README
+        run: |
+          node scripts/update-metrics-caption.mjs
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- README.md; then
+            git add README.md
+            git commit -m "Update metrics caption - [Skip GitHub Action]"
+            git push
+          else
+            echo "No changes to README caption"
+          fi
