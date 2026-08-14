@@ -97,9 +97,13 @@ jobs:
 
       - name: Sync metrics caption into README
         run: |
-          node scripts/update-metrics-caption.mjs
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # The metrics action commits through the GitHub API, so the freshly
+          # generated SVG only exists on the remote at this point. Pull it in
+          # before reading the timestamp out of it.
+          git pull --rebase origin ${{ github.ref_name }}
+          node scripts/update-metrics-caption.mjs
           if ! git diff --quiet -- README.md; then
             git add README.md
             git commit -m "Update metrics caption - [Skip GitHub Action]"
