@@ -34,6 +34,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: gauravxsuvo
           template: classic
+          config_display: large
           extras_css: |
             .items-wrapper {
               background-color: #0d1117;
