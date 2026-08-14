@@ -28,6 +28,7 @@ Hi, I'm Gaurav. I'm an undergraduate at IIT Guwahati, and I build machine learni
 
 | Project | Showcase | Area |
 | --- | --- | --- |
+| <img src="assets/logo-hueclid.svg" width="20" /> Hueclid | [hueclid.cinexg.com](https://hueclid.cinexg.com) | Accessible color palette generation from screenshots (K-means + neural net) |
 
 ## Selected contributions
 
