@@ -58,13 +58,16 @@ jobs:
               border-radius: 8px;
               padding: 16px;
               display: grid;
-              grid-template-columns: 1fr 1fr;
-              column-gap: 24px;
+              grid-template-columns: max-content max-content;
+              justify-content: space-between;
             }
             .items-wrapper > section:not(.largeable-inline-flex),
             .items-wrapper > div:not(.largeable-inline-flex),
             .items-wrapper > footer {
               grid-column: 1 / -1;
+            }
+            .largeable.largeable-inline-flex {
+              width: max-content !important;
             }
             footer,
             .activity .details,
