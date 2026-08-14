@@ -22,6 +22,13 @@ Hi, I'm Gaurav. I'm an undergraduate at IIT Guwahati, and I build machine learni
   <img src="assets/proof-of-work.svg" width="100%" alt="444 public contributions in the last 12 months, 28 stars across maintained repositories, 8 pull requests merged into other people's projects" />
 </p>
 
+## Projects
+
+<!-- Add a row per project: | <img src="LOGO_URL" width="20" /> Name | [Showcase](LINK) | Area | -->
+
+| Project | Showcase | Area |
+| --- | --- | --- |
+
 ## Selected contributions
 
 | Project | Merged contribution | Area |

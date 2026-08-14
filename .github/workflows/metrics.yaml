@@ -1,6 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  # 00:00 IST = 18:30 UTC the previous day (IST is UTC+5:30, no DST)
+  schedule: [{cron: "30 18 * * *"}]
   workflow_dispatch:
   push: {branches: ["main"]}
 jobs:
