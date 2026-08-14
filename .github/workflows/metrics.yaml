@@ -34,7 +34,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: gauravxsuvo
           template: classic
-          config_display: large
+          config_display: columns
+          config_order: base.header, followup, base.activity+community, base.repositories
           extras_css: |
             svg {
               font-size: 12px;
@@ -57,17 +58,13 @@ jobs:
               border: 2px solid #30363d;
               border-radius: 8px;
               padding: 16px;
-              display: grid;
-              grid-template-columns: max-content max-content;
-              justify-content: space-between;
             }
-            .items-wrapper > section:not(.largeable-inline-flex),
-            .items-wrapper > div:not(.largeable-inline-flex),
-            .items-wrapper > footer {
-              grid-column: 1 / -1;
+            svg.columns .items-wrapper {
+              column-gap: 24px;
             }
-            .largeable.largeable-inline-flex {
-              width: max-content !important;
+            .items-wrapper > :not(.largeable-inline-flex) + .largeable.largeable-inline-flex {
+              break-before: column;
+              -webkit-column-break-before: always;
             }
             footer,
             .activity .details,
