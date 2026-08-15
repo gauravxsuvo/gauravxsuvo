@@ -96,19 +96,20 @@ jobs:
           repositories: 1000
           repositories_forks: yes
 
-      - name: Sync metrics caption into README
+      - name: Make metrics card responsive and sync its caption
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # The metrics action commits through the GitHub API, so the freshly
           # generated SVG only exists on the remote at this point. Pull it in
-          # before reading the timestamp out of it.
+          # before reading from or rewriting it.
           git pull --rebase origin ${{ github.ref_name }}
+          node scripts/make-metrics-responsive.mjs
           node scripts/update-metrics-caption.mjs
-          if ! git diff --quiet -- README.md; then
-            git add README.md
-            git commit -m "Update metrics caption - [Skip GitHub Action]"
+          if ! git diff --quiet -- github-metrics.svg README.md; then
+            git add github-metrics.svg README.md
+            git commit -m "Update metrics card and caption - [Skip GitHub Action]"
             git push
           else
-            echo "No changes to README caption"
+            echo "No changes to metrics card or README caption"
           fi
