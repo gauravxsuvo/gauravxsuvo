@@ -29,6 +29,7 @@ Hi, I'm Gaurav. I'm an undergraduate at IIT Guwahati, and I build machine learni
 | Project | Showcase | Area |
 | --- | --- | --- |
 | <img src="assets/logo-hueclid.svg" width="20" /> Hueclid | [hueclid.cinexg.com](https://hueclid.cinexg.com) | Accessible color palette generation from screenshots (K-means + neural net) |
+| <img src="assets/logo-groundline.svg" width="20" /> Groundline | [github.com/gauravxsuvo/groundline](https://github.com/gauravxsuvo/groundline) | Voice-enabled RAG with benchmarked retrieval and verified grounding (Python, FAISS) |
 
 ## Selected contributions
 
