@@ -13,7 +13,7 @@ Hi, I'm Gaurav. I'm an undergraduate at IIT Guwahati, and I build machine learni
 <div align="center">
   <img src="github-metrics.svg" width="100%" alt="Gaurav Raj Singh's GitHub metrics: activity, community stats, and repository stats" />
   <br />
-  <sub><!--metrics-caption-->Last updated 21 Aug 2026, 00:41:27 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0<!--/metrics-caption--></sub>
+  <sub><!--metrics-caption-->Last updated 22 Aug 2026, 00:38:02 (timezone Asia/Kolkata) with lowlighter/metrics@3.34.0<!--/metrics-caption--></sub>
 </div>
 
 ## Proof of work
