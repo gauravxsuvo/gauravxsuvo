@@ -30,8 +30,8 @@ Hi, I'm Gaurav. I'm an undergraduate at IIT Guwahati, and I build machine learni
 | --- | --- | --- |
 | <img src="assets/logo-hueclid.svg" width="20" /> Hueclid | [hueclid.portways.app](https://hueclid.portways.app) · [hueclid.cinexg.com](https://hueclid.cinexg.com) | Accessible color palette generation from screenshots (K-means + neural net) |
 | <img src="assets/logo-groundline.svg" width="20" /> Groundline | [github.com/gauravxsuvo/groundline](https://github.com/gauravxsuvo/groundline) | Voice-enabled RAG with benchmarked retrieval and verified grounding (Python, FAISS) |
-| Arcus | [github.com/gauravxsuvo/arcus](https://github.com/gauravxsuvo/arcus) | — |
-| [Rewatch](https://github.com/gauravxsuvo/rewatch) | [rewatch.cc](https://rewatch.cc) | Private project |
+| <img src="assets/logo-arcus.svg" width="20" alt="" /> Arcus | [github.com/gauravxsuvo/arcus](https://github.com/gauravxsuvo/arcus) | — |
+| <img src="assets/logo-rewatch.svg" width="20" alt="" /> [Rewatch](https://github.com/gauravxsuvo/rewatch) | [rewatch.cc](https://rewatch.cc) | Private project |
 
 ## Selected contributions and projects
 
