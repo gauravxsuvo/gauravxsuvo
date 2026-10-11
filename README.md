@@ -28,13 +28,17 @@ Hi, I'm Gaurav. I'm an undergraduate at IIT Guwahati, and I build machine learni
 
 | Project | Showcase | Area |
 | --- | --- | --- |
-| <img src="assets/logo-hueclid.svg" width="20" /> Hueclid | [hueclid.cinexg.com](https://hueclid.cinexg.com) | Accessible color palette generation from screenshots (K-means + neural net) |
+| <img src="assets/logo-hueclid.svg" width="20" /> Hueclid | [hueclid.portways.app](https://hueclid.portways.app) · [hueclid.cinexg.com](https://hueclid.cinexg.com) | Accessible color palette generation from screenshots (K-means + neural net) |
 | <img src="assets/logo-groundline.svg" width="20" /> Groundline | [github.com/gauravxsuvo/groundline](https://github.com/gauravxsuvo/groundline) | Voice-enabled RAG with benchmarked retrieval and verified grounding (Python, FAISS) |
+| Arcus | [github.com/gauravxsuvo/arcus](https://github.com/gauravxsuvo/arcus) | — |
+| [Rewatch](https://github.com/gauravxsuvo/rewatch) | [rewatch.cc](https://rewatch.cc) | Private project |
 
-## Selected contributions
+## Selected contributions and projects
 
-| Project | Merged contribution | Area |
+| Project | Contribution | Area |
 | --- | --- | --- |
+| [Hueclid](https://hueclid.portways.app) | Project development | Accessible color palette generation from screenshots (K-means + neural net) |
+| [Arcus](https://github.com/gauravxsuvo/arcus) | Project development | — |
 | [OneAM-Labs / dam](https://github.com/OneAM-Labs/dam) | [Make flowinto apply the target stream's latest seal](https://github.com/OneAM-Labs/dam/pull/43) | Data integrity in a Rust CLI |
 | [OneAM-Labs / dam](https://github.com/OneAM-Labs/dam) | [Warn before dam apply overwrites files with unsealed local changes](https://github.com/OneAM-Labs/dam/pull/26) | Safety guardrails for a CLI tool |
 | [OneAM-Labs / dam](https://github.com/OneAM-Labs/dam) | [Add a CI workflow to build and test on push and PR](https://github.com/OneAM-Labs/dam/pull/14) | CI setup |
